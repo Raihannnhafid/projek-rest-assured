@@ -31,17 +31,4 @@ public class GroupTest {
 
         Assert.assertEquals(group.getStatusCode(), 200);
     }
-
-    // @Test()
-    // public void tc0002() {
-    // // RestAssured.baseURI = BASE_URL;
-    // RestAssured.given()
-    // .when()
-    // .get("/products/2")
-    // .then()
-    // .statusCode(200)
-    // .statusLine("HTTP/1.1 200 OK")
-    // .body("category", CoreMatchers.equalTo("Metal"))
-    // .body("price", CoreMatchers.equalTo("523.49"));
-    // }
 }
