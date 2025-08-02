@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-02T15:16:37 ICT" name="API SIMRA Suite" finished-at="2025-08-02T15:16:55 ICT" duration-ms="18363">
+    <groups>
+    </groups>
+    <test started-at="2025-08-02T15:16:37 ICT" name="Catalog Test" finished-at="2025-08-02T15:16:55 ICT" duration-ms="18363">
+      <class name="com.juaracoding.apitest.GroupTest">
+        <test-method signature="tc0001()[pri:0, instance:com.juaracoding.apitest.GroupTest@7880cdf3]" started-at="2025-08-02T15:16:37 ICT" name="tc0001" finished-at="2025-08-02T15:16:41 ICT" duration-ms="3942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0001 -->
+        <test-method signature="tc0002()[pri:0, instance:com.juaracoding.apitest.GroupTest@7880cdf3]" started-at="2025-08-02T15:16:41 ICT" name="tc0002" finished-at="2025-08-02T15:16:43 ICT" duration-ms="2038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0002 -->
+        <test-method signature="tc0003()[pri:0, instance:com.juaracoding.apitest.GroupTest@7880cdf3]" started-at="2025-08-02T15:16:43 ICT" name="tc0003" finished-at="2025-08-02T15:16:45 ICT" duration-ms="2039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0003 -->
+      </class> <!-- com.juaracoding.apitest.GroupTest -->
+      <class name="com.juaracoding.apitest.PlansTest">
+        <test-method signature="tc0001()[pri:0, instance:com.juaracoding.apitest.PlansTest@6fe7aac8]" started-at="2025-08-02T15:16:45 ICT" name="tc0001" finished-at="2025-08-02T15:16:47 ICT" duration-ms="2048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0001 -->
+        <test-method signature="tc0002()[pri:0, instance:com.juaracoding.apitest.PlansTest@6fe7aac8]" started-at="2025-08-02T15:16:47 ICT" name="tc0002" finished-at="2025-08-02T15:16:49 ICT" duration-ms="2027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0002 -->
+      </class> <!-- com.juaracoding.apitest.PlansTest -->
+      <class name="com.juaracoding.apitest.GroupItemsTest">
+        <test-method signature="tc0001()[pri:0, instance:com.juaracoding.apitest.GroupItemsTest@1d119efb]" started-at="2025-08-02T15:16:49 ICT" name="tc0001" finished-at="2025-08-02T15:16:51 ICT" duration-ms="2036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0001 -->
+        <test-method signature="tc0002()[pri:0, instance:com.juaracoding.apitest.GroupItemsTest@1d119efb]" started-at="2025-08-02T15:16:51 ICT" name="tc0002" finished-at="2025-08-02T15:16:53 ICT" duration-ms="2026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0002 -->
+        <test-method signature="tc0003()[pri:0, instance:com.juaracoding.apitest.GroupItemsTest@1d119efb]" started-at="2025-08-02T15:16:53 ICT" name="tc0003" finished-at="2025-08-02T15:16:55 ICT" duration-ms="2088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0003 -->
+      </class> <!-- com.juaracoding.apitest.GroupItemsTest -->
+    </test> <!-- Catalog Test -->
+  </suite> <!-- API SIMRA Suite -->
+</testng-results>

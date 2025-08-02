@@ -1,0 +1,9 @@
+com\juaracoding\apitest\models\Group.class
+com\juaracoding\apitest\models\GroupItems.class
+com\juaracoding\apitest\models\Plans.class
+com\juaracoding\apitest\services\GroupService.class
+com\juaracoding\apitest\GroupTest.class
+com\juaracoding\apitest\PlansTest.class
+com\juaracoding\apitest\services\PlansService.class
+com\juaracoding\apitest\GroupItemsTest.class
+com\juaracoding\apitest\services\GroupItemsService.class
