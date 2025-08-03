@@ -35,6 +35,8 @@ The goal of this project is to :
 
 Whether you're just starting to learn about API automation or practicing for a QA engineer role, this project is a practical learning resource to help you understand the basic structure, libraries, and tools used in API testing.
 
+---
+
 ## 🚀 Quick Installation
 
 1. **Clone the repository**:
