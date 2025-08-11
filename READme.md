@@ -42,11 +42,11 @@ Whether you're just starting to learn about API automation or practicing for a Q
 1. **Clone the repository**:
 
    ```bash
-     git clone https://github.com/Raihannnhafid/projek-minggu-5-rest-assured.git
+     git clone https://github.com/Raihannnhafid/projek-rest-assured.git
     ```
 2. **Navigate to the project folder**:
     ```bash
-    cd projek-minggu-5-rest-assured
+    cd projek-rest-assured
     ```
 3. **Open the project in VS Code:**:
     ```bash
