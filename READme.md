@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/Raihannnhafid/projek-minggu-5-rest-assured?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/top/Raihannnhafid/projek-minggu-5-rest-assured?style=flat-square&logo=java&label=Java" />
-  <img src="https://img.shields.io/github/languages/count/Raihannnhafid/projek-minggu-5-rest-assured?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/Raihannnhafid/projek-rest-assured?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/Raihannnhafid/projek-rest-assured?style=flat-square&logo=java&label=Java" />
+  <img src="https://img.shields.io/github/languages/count/Raihannnhafid/projek-rest-assured?style=flat-square" />
 </p>
 
 <p align="center">
